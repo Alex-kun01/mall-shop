@@ -1,9 +1,8 @@
 # 商城后台管理系统
 
 ## 用户管理
-```
-对用户的信息进行编辑、删除，状态的改变
-```
+
+* 1 对用户的信息进行编辑、删除，状态的改变
 
 ### 权限管理
 * 1 角色列表：
@@ -11,15 +10,15 @@
 * 2 权限列表：
     查看所有权限明细
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 订单管理
+* 1 订单列表
+    对所有订单进行管理
+    订单搜索
+    订单明细查询
+    订单状态修改
+    订单位置查询
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 数据统计
+* 1 数据报表
+    对全国范围的订单进行区域统计
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
