@@ -1,0 +1,792 @@
+[2019-12-27T17:27:56.057] [DEBUG] cheese - login => username:张三,password:123456
+[2019-12-27T17:27:56.059] [DEBUG] cheese - 张三
+[2019-12-27T17:27:56.066] [DEBUG] cheese - null
+[2019-12-27T17:27:56.066] [DEBUG] cheese - null
+[2019-12-27T17:34:36.847] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-27T17:34:36.847] [DEBUG] cheese - admin
+[2019-12-27T17:34:36.854] [DEBUG] cheese - null
+[2019-12-27T17:34:36.854] [DEBUG] cheese - null
+[2019-12-27T17:41:23.002] [DEBUG] cheese - login => username:胡光光,password:123456
+[2019-12-27T17:41:23.002] [DEBUG] cheese - 胡光光
+[2019-12-27T17:41:23.004] [DEBUG] cheese - null
+[2019-12-27T17:41:23.005] [DEBUG] cheese - null
+[2019-12-27T17:42:31.807] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-27T17:42:31.808] [DEBUG] cheese - admin
+[2019-12-27T17:42:31.810] [DEBUG] cheese - null
+[2019-12-27T17:42:31.810] [DEBUG] cheese - null
+[2019-12-28T21:01:38.946] [DEBUG] cheese - login => username:sdaf,password:45678
+[2019-12-28T21:01:38.955] [DEBUG] cheese - sdaf
+[2019-12-28T21:01:38.992] [DEBUG] cheese - null
+[2019-12-28T21:01:38.995] [DEBUG] cheese - null
+[2019-12-28T21:04:15.297] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T21:04:15.297] [DEBUG] cheese - admin
+[2019-12-28T21:04:15.306] [DEBUG] cheese - null
+[2019-12-28T21:04:15.306] [DEBUG] cheese - null
+[2019-12-28T21:05:58.016] [DEBUG] cheese - login => username:张三哦,password:123456
+[2019-12-28T21:05:58.017] [DEBUG] cheese - 张三哦
+[2019-12-28T21:05:58.021] [DEBUG] cheese - null
+[2019-12-28T21:05:58.021] [DEBUG] cheese - null
+[2019-12-28T21:09:39.716] [DEBUG] cheese - login => username:张三哦,password:123456
+[2019-12-28T21:09:39.716] [DEBUG] cheese - 张三哦
+[2019-12-28T21:09:39.727] [DEBUG] cheese - null
+[2019-12-28T21:09:39.727] [DEBUG] cheese - null
+[2019-12-28T21:52:15.997] [DEBUG] cheese - login => username:asdf,password:df
+[2019-12-28T21:52:15.999] [DEBUG] cheese - asdf
+[2019-12-28T21:52:16.030] [DEBUG] cheese - null
+[2019-12-28T21:52:16.030] [DEBUG] cheese - null
+[2019-12-28T21:53:42.560] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T21:53:42.560] [DEBUG] cheese - admin
+[2019-12-28T21:53:42.571] [DEBUG] cheese - null
+[2019-12-28T21:53:42.571] [DEBUG] cheese - null
+[2019-12-28T21:56:28.874] [DEBUG] cheese - login => username:asdf ,password:asdf
+[2019-12-28T21:56:28.875] [DEBUG] cheese - asdf 
+[2019-12-28T21:56:28.879] [DEBUG] cheese - null
+[2019-12-28T21:56:28.880] [DEBUG] cheese - null
+[2019-12-28T22:01:57.322] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:01:57.322] [DEBUG] cheese - admin
+[2019-12-28T22:01:57.329] [DEBUG] cheese - null
+[2019-12-28T22:01:57.329] [DEBUG] cheese - null
+[2019-12-28T22:02:24.212] [DEBUG] cheese - login => username:admin,password:12456
+[2019-12-28T22:02:24.213] [DEBUG] cheese - admin
+[2019-12-28T22:02:24.216] [DEBUG] cheese - null
+[2019-12-28T22:02:24.216] [DEBUG] cheese - null
+[2019-12-28T22:04:36.886] [DEBUG] cheese - login => username:asdf,password:sdfasedf
+[2019-12-28T22:04:36.886] [DEBUG] cheese - asdf
+[2019-12-28T22:04:36.889] [DEBUG] cheese - null
+[2019-12-28T22:04:36.889] [DEBUG] cheese - null
+[2019-12-28T22:06:41.253] [DEBUG] cheese - login => username:admin,password:456
+[2019-12-28T22:06:41.253] [DEBUG] cheese - admin
+[2019-12-28T22:06:41.257] [DEBUG] cheese - null
+[2019-12-28T22:06:41.257] [DEBUG] cheese - null
+[2019-12-28T22:08:04.092] [DEBUG] cheese - login => username:admin,password:456
+[2019-12-28T22:08:04.092] [DEBUG] cheese - admin
+[2019-12-28T22:08:04.097] [DEBUG] cheese - null
+[2019-12-28T22:08:04.097] [DEBUG] cheese - null
+[2019-12-28T22:08:25.904] [DEBUG] cheese - login => username:admin,password:789
+[2019-12-28T22:08:25.904] [DEBUG] cheese - admin
+[2019-12-28T22:08:25.909] [DEBUG] cheese - null
+[2019-12-28T22:08:25.909] [DEBUG] cheese - null
+[2019-12-28T22:08:52.704] [DEBUG] cheese - login => username:admin,password:789
+[2019-12-28T22:08:52.705] [DEBUG] cheese - admin
+[2019-12-28T22:08:52.711] [DEBUG] cheese - null
+[2019-12-28T22:08:52.711] [DEBUG] cheese - null
+[2019-12-28T22:09:00.001] [DEBUG] cheese - login => username:789,password:789
+[2019-12-28T22:09:00.001] [DEBUG] cheese - 789
+[2019-12-28T22:09:00.010] [DEBUG] cheese - null
+[2019-12-28T22:09:00.010] [DEBUG] cheese - null
+[2019-12-28T22:09:58.410] [DEBUG] cheese - login => username:sadf,password:3
+[2019-12-28T22:09:58.410] [DEBUG] cheese - sadf
+[2019-12-28T22:09:58.416] [DEBUG] cheese - null
+[2019-12-28T22:09:58.416] [DEBUG] cheese - null
+[2019-12-28T22:10:06.341] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:10:06.341] [DEBUG] cheese - admin
+[2019-12-28T22:10:06.346] [DEBUG] cheese - null
+[2019-12-28T22:10:06.346] [DEBUG] cheese - null
+[2019-12-28T22:13:20.102] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:13:20.102] [DEBUG] cheese - admin
+[2019-12-28T22:13:20.105] [DEBUG] cheese - null
+[2019-12-28T22:13:20.106] [DEBUG] cheese - null
+[2019-12-28T22:13:24.842] [DEBUG] cheese - login => username:admin,password:78
+[2019-12-28T22:13:24.842] [DEBUG] cheese - admin
+[2019-12-28T22:13:24.846] [DEBUG] cheese - null
+[2019-12-28T22:13:24.846] [DEBUG] cheese - null
+[2019-12-28T22:14:10.156] [DEBUG] cheese - login => username:admin,password:456
+[2019-12-28T22:14:10.156] [DEBUG] cheese - admin
+[2019-12-28T22:14:10.159] [DEBUG] cheese - null
+[2019-12-28T22:14:10.159] [DEBUG] cheese - null
+[2019-12-28T22:14:15.919] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:14:15.919] [DEBUG] cheese - admin
+[2019-12-28T22:14:15.924] [DEBUG] cheese - null
+[2019-12-28T22:14:15.924] [DEBUG] cheese - null
+[2019-12-28T22:44:00.633] [DEBUG] cheese - login => username:sadf,password:sdf
+[2019-12-28T22:44:00.635] [DEBUG] cheese - sadf
+[2019-12-28T22:44:00.650] [DEBUG] cheese - null
+[2019-12-28T22:44:00.650] [DEBUG] cheese - null
+[2019-12-28T22:44:06.694] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:44:06.694] [DEBUG] cheese - admin
+[2019-12-28T22:44:06.699] [DEBUG] cheese - null
+[2019-12-28T22:44:06.699] [DEBUG] cheese - null
+[2019-12-28T22:44:11.109] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:44:11.109] [DEBUG] cheese - admin
+[2019-12-28T22:44:11.113] [DEBUG] cheese - null
+[2019-12-28T22:44:11.113] [DEBUG] cheese - null
+[2019-12-28T22:44:17.206] [DEBUG] cheese - login => username:admin,password:12
+[2019-12-28T22:44:17.206] [DEBUG] cheese - admin
+[2019-12-28T22:44:17.210] [DEBUG] cheese - null
+[2019-12-28T22:44:17.210] [DEBUG] cheese - null
+[2019-12-28T22:45:19.600] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:45:19.600] [DEBUG] cheese - admin
+[2019-12-28T22:45:19.604] [DEBUG] cheese - null
+[2019-12-28T22:45:19.604] [DEBUG] cheese - null
+[2019-12-28T22:45:29.135] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:45:29.135] [DEBUG] cheese - admin
+[2019-12-28T22:45:29.139] [DEBUG] cheese - null
+[2019-12-28T22:45:29.139] [DEBUG] cheese - null
+[2019-12-28T22:46:25.980] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-28T22:46:25.981] [DEBUG] cheese - admin
+[2019-12-28T22:46:25.984] [DEBUG] cheese - null
+[2019-12-28T22:46:25.985] [DEBUG] cheese - null
+[2019-12-29T13:08:14.172] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:08:14.178] [DEBUG] cheese - admin
+[2019-12-29T13:08:14.199] [DEBUG] cheese - null
+[2019-12-29T13:08:14.201] [DEBUG] cheese - null
+[2019-12-29T13:08:24.260] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:08:24.260] [DEBUG] cheese - admin
+[2019-12-29T13:08:24.265] [DEBUG] cheese - null
+[2019-12-29T13:08:24.265] [DEBUG] cheese - null
+[2019-12-29T13:08:38.720] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:08:38.720] [DEBUG] cheese - admin
+[2019-12-29T13:08:38.723] [DEBUG] cheese - null
+[2019-12-29T13:08:38.724] [DEBUG] cheese - null
+[2019-12-29T13:09:07.892] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:09:07.892] [DEBUG] cheese - admin
+[2019-12-29T13:09:07.895] [DEBUG] cheese - null
+[2019-12-29T13:09:07.896] [DEBUG] cheese - null
+[2019-12-29T13:14:07.959] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:14:07.960] [DEBUG] cheese - admin
+[2019-12-29T13:14:07.965] [DEBUG] cheese - null
+[2019-12-29T13:14:07.965] [DEBUG] cheese - null
+[2019-12-29T13:15:07.869] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:15:07.869] [DEBUG] cheese - admin
+[2019-12-29T13:15:07.873] [DEBUG] cheese - null
+[2019-12-29T13:15:07.873] [DEBUG] cheese - null
+[2019-12-29T13:31:37.175] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:31:37.176] [DEBUG] cheese - admin
+[2019-12-29T13:31:37.182] [DEBUG] cheese - null
+[2019-12-29T13:31:37.182] [DEBUG] cheese - null
+[2019-12-29T13:33:29.726] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:33:29.726] [DEBUG] cheese - admin
+[2019-12-29T13:33:29.731] [DEBUG] cheese - null
+[2019-12-29T13:33:29.731] [DEBUG] cheese - null
+[2019-12-29T13:33:43.098] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:33:43.098] [DEBUG] cheese - admin
+[2019-12-29T13:33:43.101] [DEBUG] cheese - null
+[2019-12-29T13:33:43.101] [DEBUG] cheese - null
+[2019-12-29T13:46:13.987] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:46:13.987] [DEBUG] cheese - admin
+[2019-12-29T13:46:13.993] [DEBUG] cheese - null
+[2019-12-29T13:46:13.993] [DEBUG] cheese - null
+[2019-12-29T13:46:21.471] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T13:46:21.471] [DEBUG] cheese - admin
+[2019-12-29T13:46:21.475] [DEBUG] cheese - null
+[2019-12-29T13:46:21.475] [DEBUG] cheese - null
+[2019-12-29T15:04:21.512] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T15:04:21.518] [DEBUG] cheese - admin
+[2019-12-29T15:04:21.536] [DEBUG] cheese - null
+[2019-12-29T15:04:21.537] [DEBUG] cheese - null
+[2019-12-29T15:04:29.491] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T15:04:29.491] [DEBUG] cheese - admin
+[2019-12-29T15:04:29.498] [DEBUG] cheese - null
+[2019-12-29T15:04:29.498] [DEBUG] cheese - null
+[2019-12-29T15:05:43.580] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T15:05:43.581] [DEBUG] cheese - admin
+[2019-12-29T15:05:43.587] [DEBUG] cheese - null
+[2019-12-29T15:05:43.588] [DEBUG] cheese - null
+[2019-12-29T16:56:26.278] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T16:56:26.283] [DEBUG] cheese - admin
+[2019-12-29T16:56:26.303] [DEBUG] cheese - null
+[2019-12-29T16:56:26.305] [DEBUG] cheese - null
+[2019-12-29T16:57:32.699] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T16:57:32.699] [DEBUG] cheese - admin
+[2019-12-29T16:57:32.707] [DEBUG] cheese - null
+[2019-12-29T16:57:32.707] [DEBUG] cheese - null
+[2019-12-29T16:59:24.862] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T16:59:24.862] [DEBUG] cheese - admin
+[2019-12-29T16:59:24.868] [DEBUG] cheese - null
+[2019-12-29T16:59:24.868] [DEBUG] cheese - null
+[2019-12-29T17:00:05.977] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T17:00:05.977] [DEBUG] cheese - admin
+[2019-12-29T17:00:05.980] [DEBUG] cheese - null
+[2019-12-29T17:00:05.981] [DEBUG] cheese - null
+[2019-12-29T17:01:17.522] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T17:01:17.522] [DEBUG] cheese - admin
+[2019-12-29T17:01:17.527] [DEBUG] cheese - null
+[2019-12-29T17:01:17.527] [DEBUG] cheese - null
+[2019-12-29T20:16:43.935] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T20:16:43.938] [DEBUG] cheese - admin
+[2019-12-29T20:16:43.958] [DEBUG] cheese - null
+[2019-12-29T20:16:43.958] [DEBUG] cheese - null
+[2019-12-29T20:49:42.328] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T20:49:42.328] [DEBUG] cheese - admin
+[2019-12-29T20:49:42.336] [DEBUG] cheese - null
+[2019-12-29T20:49:42.336] [DEBUG] cheese - null
+[2019-12-29T20:49:57.086] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-29T20:49:57.086] [DEBUG] cheese - admin
+[2019-12-29T20:49:57.095] [DEBUG] cheese - null
+[2019-12-29T20:49:57.095] [DEBUG] cheese - null
+[2019-12-30T09:21:18.071] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:21:18.073] [DEBUG] cheese - admin
+[2019-12-30T09:21:18.079] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'admin\' LIMIT 1' }
+[2019-12-30T09:21:18.084] [DEBUG] cheese - 查询失败
+[2019-12-30T09:21:22.103] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:21:22.103] [DEBUG] cheese - admin
+[2019-12-30T09:21:22.105] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'admin\' LIMIT 1' }
+[2019-12-30T09:21:22.105] [DEBUG] cheese - 查询失败
+[2019-12-30T09:21:31.817] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:21:31.817] [DEBUG] cheese - admin
+[2019-12-30T09:21:31.819] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'admin\' LIMIT 1' }
+[2019-12-30T09:21:31.819] [DEBUG] cheese - 查询失败
+[2019-12-30T09:24:09.915] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:24:09.915] [DEBUG] cheese - admin
+[2019-12-30T09:24:09.918] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'admin\' LIMIT 1' }
+[2019-12-30T09:24:09.919] [DEBUG] cheese - 查询失败
+[2019-12-30T09:24:22.701] [DEBUG] cheese - login => username:12456,password:123456
+[2019-12-30T09:24:22.701] [DEBUG] cheese - 12456
+[2019-12-30T09:24:22.703] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'12456\' LIMIT 1' }
+[2019-12-30T09:24:22.704] [DEBUG] cheese - 查询失败
+[2019-12-30T09:24:38.105] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:24:38.106] [DEBUG] cheese - admin
+[2019-12-30T09:24:38.108] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'admin\' LIMIT 1' }
+[2019-12-30T09:24:38.108] [DEBUG] cheese - 查询失败
+[2019-12-30T09:27:12.145] [DEBUG] cheese - login => username:tige117,password:123456
+[2019-12-30T09:27:12.145] [DEBUG] cheese - tige117
+[2019-12-30T09:27:12.149] [DEBUG] cheese - { Error: ER_NO_SUCH_TABLE: Table 'mydb.sp_manager' doesn't exist
+    at Query.Sequence._packetToError (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Query.js:77:18)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at TCP.onread (net.js:635:20)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at PoolConnection.query (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:201:25)
+    at C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:231:9
+    at Ping.onOperationComplete (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:110:5)
+    at Ping.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Ping._callback (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:491:16)
+    at Ping.Sequence.end (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\sequences\Sequence.js:92:8)
+    at Protocol._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:91:28)
+    at Socket.<anonymous> (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:525:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlMessage: 'Table \'mydb.sp_manager\' doesn\'t exist',
+  sqlState: '42S02',
+  index: 0,
+  sql:
+   'SELECT `mg_id`, `mg_name`, `mg_pwd`, `mg_time`, `role_id`, `mg_mobile`, `mg_email`, `mg_state` FROM `sp_manager` WHERE `mg_name` = \'tige117\' LIMIT 1' }
+[2019-12-30T09:27:12.150] [DEBUG] cheese - 查询失败
+[2019-12-30T09:41:42.109] [DEBUG] cheese - login => username:tige117,password:123456
+[2019-12-30T09:41:42.113] [DEBUG] cheese - tige117
+[2019-12-30T09:41:42.121] [DEBUG] cheese - null
+[2019-12-30T09:41:42.122] [DEBUG] cheese - null
+[2019-12-30T09:41:53.746] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:41:53.746] [DEBUG] cheese - admin
+[2019-12-30T09:41:53.751] [DEBUG] cheese - null
+[2019-12-30T09:41:53.751] [DEBUG] cheese - null
+[2019-12-30T09:42:28.805] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T09:42:28.805] [DEBUG] cheese - admin
+[2019-12-30T09:42:28.807] [DEBUG] cheese - null
+[2019-12-30T09:42:28.807] [DEBUG] cheese - null
+[2019-12-30T20:32:01.926] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T20:32:01.930] [DEBUG] cheese - admin
+[2019-12-30T20:32:01.954] [DEBUG] cheese - null
+[2019-12-30T20:32:01.955] [DEBUG] cheese - null
+[2019-12-30T21:02:57.460] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T21:02:57.460] [DEBUG] cheese - admin
+[2019-12-30T21:02:57.465] [DEBUG] cheese - null
+[2019-12-30T21:02:57.465] [DEBUG] cheese - null
+[2019-12-30T22:55:41.470] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-30T22:55:41.474] [DEBUG] cheese - admin
+[2019-12-30T22:55:41.491] [DEBUG] cheese - null
+[2019-12-30T22:55:41.492] [DEBUG] cheese - null
+[2019-12-31T09:06:28.708] [DEBUG] cheese - login => username:admin,password:123456
+[2019-12-31T09:06:28.710] [DEBUG] cheese - admin
+[2019-12-31T09:06:28.732] [DEBUG] cheese - null
+[2019-12-31T09:06:28.734] [DEBUG] cheese - null
+[2020-01-02T11:08:17.624] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-02T11:08:17.626] [DEBUG] cheese - admin
+[2020-01-02T11:08:17.636] [DEBUG] cheese - null
+[2020-01-02T11:08:17.637] [DEBUG] cheese - null
+[2020-01-02T15:01:06.414] [DEBUG] cheese - null
+[2020-01-02T15:03:43.758] [DEBUG] cheese - null
+[2020-01-02T15:03:49.204] [DEBUG] cheese - null
+[2020-01-02T15:06:26.142] [DEBUG] cheese - null
+[2020-01-02T15:07:08.492] [DEBUG] cheese - null
+[2020-01-02T15:12:42.488] [DEBUG] cheese - null
+[2020-01-02T15:13:24.577] [DEBUG] cheese - null
+[2020-01-02T15:16:09.916] [DEBUG] cheese - null
+[2020-01-02T15:16:15.076] [DEBUG] cheese - null
+[2020-01-02T17:44:42.526] [DEBUG] cheese - null
+[2020-01-02T17:45:47.764] [DEBUG] cheese - null
+[2020-01-02T17:45:51.741] [DEBUG] cheese - null
+[2020-01-02T19:57:00.918] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-02T19:57:00.922] [DEBUG] cheese - admin
+[2020-01-02T19:57:00.958] [DEBUG] cheese - null
+[2020-01-02T19:57:00.960] [DEBUG] cheese - null
+[2020-01-03T09:43:25.556] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-03T09:43:25.558] [DEBUG] cheese - admin
+[2020-01-03T09:43:25.578] [DEBUG] cheese - null
+[2020-01-03T09:43:25.579] [DEBUG] cheese - null
+[2020-01-03T09:43:33.204] [DEBUG] cheese - null
+[2020-01-03T09:44:19.467] [DEBUG] cheese - null
+[2020-01-04T11:26:53.827] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-04T11:26:53.831] [DEBUG] cheese - admin
+[2020-01-04T11:26:53.867] [DEBUG] cheese - null
+[2020-01-04T11:26:53.869] [DEBUG] cheese - null
+[2020-01-05T11:51:16.882] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-05T11:51:16.886] [DEBUG] cheese - admin
+[2020-01-05T11:51:16.925] [DEBUG] cheese - null
+[2020-01-05T11:51:16.929] [DEBUG] cheese - null
+[2020-01-06T08:57:46.558] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T08:57:46.560] [DEBUG] cheese - admin
+[2020-01-06T08:57:46.586] [DEBUG] cheese - null
+[2020-01-06T08:57:46.587] [DEBUG] cheese - null
+[2020-01-06T14:10:40.295] [DEBUG] cheese - null
+[2020-01-06T14:13:39.968] [DEBUG] cheese - null
+[2020-01-06T14:15:13.733] [DEBUG] cheese - null
+[2020-01-06T17:14:03.685] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:03.686] [DEBUG] cheese - admin
+[2020-01-06T17:14:04.670] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:04.670] [DEBUG] cheese - admin
+[2020-01-06T17:14:04.700] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:04.703] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:04.876] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:04.876] [DEBUG] cheese - admin
+[2020-01-06T17:14:05.058] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:05.058] [DEBUG] cheese - admin
+[2020-01-06T17:14:05.675] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:05.676] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:05.699] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:05.699] [DEBUG] cheese - admin
+[2020-01-06T17:14:05.889] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:05.890] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:05.958] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:05.958] [DEBUG] cheese - admin
+[2020-01-06T17:14:06.067] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:06.067] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:06.145] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:06.145] [DEBUG] cheese - admin
+[2020-01-06T17:14:06.708] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:06.709] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:06.961] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:06.961] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:07.162] [DEBUG] cheese - { Error: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1158:14)
+    --------------------
+    at Protocol._enqueue (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Connection.js:119:18)
+    at Pool.getConnection (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\mysql\lib\Pool.js:48:16)
+    at Driver.poolQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:226:16)
+    at Driver.execSimpleQuery (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:101:10)
+    at Driver.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Drivers\DML\mysql.js:145:8)
+    at chainRun (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:35:17)
+    at Object.run (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\ChainFind.js:224:7)
+    at Function.Model.model.find (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:441:13)
+    at Function.Model.model.one (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\orm\lib\Model.js:476:22)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\DAO.js:134:8)
+    at Object.module.exports.findOne (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\dao\ManagerDAO.js:35:12)
+    at module.exports.login (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\services\ManagerService.js:218:14)
+    at Strategy._verify (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\modules\passport.js:25:4)
+    at Strategy.authenticate (C:\Users\Administrator\Desktop\vue_shop\vue_api_server\node_modules\passport-local\lib\strategy.js:90:12)
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 3306,
+  fatal: true }
+[2020-01-06T17:14:07.163] [DEBUG] cheese - 查询失败
+[2020-01-06T17:14:14.128] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-06T17:14:14.128] [DEBUG] cheese - admin
+[2020-01-06T17:14:14.135] [DEBUG] cheese - null
+[2020-01-06T17:14:14.135] [DEBUG] cheese - null
+[2020-01-07T09:09:43.698] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-07T09:09:43.700] [DEBUG] cheese - admin
+[2020-01-07T09:09:43.724] [DEBUG] cheese - null
+[2020-01-07T09:09:43.726] [DEBUG] cheese - null
+[2020-01-07T20:56:28.105] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-07T20:56:28.111] [DEBUG] cheese - admin
+[2020-01-07T20:56:28.174] [DEBUG] cheese - null
+[2020-01-07T20:56:28.176] [DEBUG] cheese - null
+[2020-01-07T22:53:21.756] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-07T22:53:21.764] [DEBUG] cheese - admin
+[2020-01-07T22:53:21.801] [DEBUG] cheese - null
+[2020-01-07T22:53:21.802] [DEBUG] cheese - null
+[2020-01-07T23:12:22.248] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-07T23:12:22.249] [DEBUG] cheese - admin
+[2020-01-07T23:12:22.254] [DEBUG] cheese - null
+[2020-01-07T23:12:22.254] [DEBUG] cheese - null
+[2020-01-13T17:37:19.894] [DEBUG] cheese - login => username:admin,password:123456
+[2020-01-13T17:37:19.896] [DEBUG] cheese - admin
+[2020-01-13T17:37:19.909] [DEBUG] cheese - null
+[2020-01-13T17:37:19.909] [DEBUG] cheese - null
